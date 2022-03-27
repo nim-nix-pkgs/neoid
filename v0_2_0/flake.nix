@@ -11,6 +11,7 @@
   inputs.src-nanoid-v0_2_0.ref   = "refs/tags/v0.2.0";
   inputs.src-nanoid-v0_2_0.owner = "theAkito";
   inputs.src-nanoid-v0_2_0.repo  = "nim-neoid";
+  inputs.src-nanoid-v0_2_0.dir   = "";
   inputs.src-nanoid-v0_2_0.type  = "github";
   
   inputs."random".owner = "nim-nix-pkgs";

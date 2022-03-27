@@ -11,6 +11,7 @@
   inputs.src-neoid-master.ref   = "refs/heads/master";
   inputs.src-neoid-master.owner = "theAkito";
   inputs.src-neoid-master.repo  = "nim-neoid";
+  inputs.src-neoid-master.dir   = "";
   inputs.src-neoid-master.type  = "github";
   
   inputs."random".owner = "nim-nix-pkgs";
