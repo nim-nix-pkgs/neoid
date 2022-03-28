@@ -11,7 +11,6 @@
   inputs.src-neoid-0_3_0.ref   = "refs/tags/0.3.0";
   inputs.src-neoid-0_3_0.owner = "theAkito";
   inputs.src-neoid-0_3_0.repo  = "nim-neoid";
-  inputs.src-neoid-0_3_0.dir   = "";
   inputs.src-neoid-0_3_0.type  = "github";
   
   inputs."random".owner = "nim-nix-pkgs";
